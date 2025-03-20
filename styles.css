@@ -1,0 +1,31 @@
+h1{
+    font-family: "Honk",Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(68, 205, 50);
+    color: brown;
+    text-align: center;
+
+}
+
+body {
+    color: rgb(133, 17, 17)
+}
+
+a {
+    font-family: "Bungee Tint", Verdana, Geneva, Tahoma, sans-serif;
+    font-size: italic;
+}
+
+.accroche {
+    font-family: "Bungee Tint", Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+}
+
+h2 {
+    font-family: "Metal Mania", Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+li {
+    font-family: "Tangerine", Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 28px;
+}
